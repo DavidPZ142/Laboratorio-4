@@ -23,7 +23,7 @@ public class PowerScore implements GameScore{
             throw new GameScoreException (GameScoreException.NEGATIVE_NUMBERS);
         }
         for (int i= 1 ; i < correcto ; i++){
-            puntaje+= (int) (Math.pow(bonus,i));
+            puntaje+= (Math.pow(bonus,i));
         }
         
        puntaje = (puntaje -(fallo*incorrecto)< puntajeMinimo) ? puntajeMinimo : puntaje - (fallo*incorrecto);
