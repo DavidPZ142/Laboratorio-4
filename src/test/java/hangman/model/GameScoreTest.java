@@ -118,16 +118,24 @@ public class GameScoreTest{
             Assert.assertTrue( true );
         }
     }
+<<<<<<< HEAD
 
 
     /*  
      @Test
+=======
+    
+    /*Se bugeo  @Test
+>>>>>>> 109ee74b7b33f3db4f361b8dfdc999ecf77cccda
     public void deberiaLanzarMaximoPuntaje() throws GameScoreException {
         int score = powerGame.calculateScore(4,0);
         Assert.assertTrue(score == 500);
 
     }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 109ee74b7b33f3db4f361b8dfdc999ecf77cccda
     */
     
     @Test
