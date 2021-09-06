@@ -20,3 +20,7 @@ Realizado
 5. Actualice el archivo pom.xml e incluya las dependencias para la ultima versión de JUnit y la versión del compilador de Java a la versión 8 .
 
 ![pom](https://github.com/DavidPZ666/Laboratorio-4/blob/main/img/Pom.PNG)
+
+
+## Parte II 
+
