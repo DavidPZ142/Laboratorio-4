@@ -7,6 +7,6 @@ package hangman.model;
  */
 public interface GameScore {
     
-    public int calculateScore( int correctot, int incorrecto ) throws GameScoreException;
+    public int calculateScore( int correcto, int incorrecto ) throws GameScoreException;
 
 }
