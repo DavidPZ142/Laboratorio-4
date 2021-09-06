@@ -17,7 +17,8 @@ public class OriginalScore implements GameScore{
 			throw new GameScoreException( GameScoreException.NEGATIVE_NUMBERS);
 		}
 		
-		
+		puntaje =( puntaje - (fallo*incorrecto) < puntajeMinimo )? puntajeMinimo :  puntaje - (fallo*incorrecto);
+        return puntaje;
 	}
 	
 }
