@@ -33,6 +33,7 @@ public class GUI {
     private Language language;
     private HangmanDictionary dictionary;
     private HangmanPanel hangmanPanel;
+    private GameScore gameScore;
 
     private MainFrameController mainFrameController;
 
@@ -56,6 +57,7 @@ public class GUI {
         this.language = language;
         this.dictionary= dictionary;
         this.hangmanPanel = hangmanPanel;
+        this.gameScore =gameScore;
     }
 
     //method: setup
