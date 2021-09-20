@@ -24,3 +24,16 @@ Realizado
 
 ## Parte II 
 
+**Clases Equivalencia**
+
+
+![ClasesEquivalencia](https://github.com/DavidPZ666/Laboratorio-4/blob/main/img/EjecucionPruebas.png)
+![ClasesEquivalencia2](https://github.com/DavidPZ666/Laboratorio-4/blob/main/img/ClasesEquivalencia.PNG)
+
+Se actualiza clase Hangman Default
+
+![ClasesEquivalencia3](https://github.com/DavidPZ666/Laboratorio-4/blob/main/img/HangmanDefault.PNG)
+
+Se cambia a frances y a original score
+
+![ClasesEquivalencia4](https://github.com/DavidPZ666/Laboratorio-4/blob/main/img/CambioAFrances.PNG)
